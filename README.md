@@ -29,6 +29,7 @@ https://dextination-345103.nw.r.appspot.com/   -- server currently not running
 Found within the project src folder includes:
 * Process documents: progress timeline
 * Product documents: end product screenshots
+* hotandcold: source code
 
 ## Contributing
 Please feel free to contribute to this project, since this is an open source project contributions made are appreciated.

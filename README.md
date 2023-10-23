@@ -59,10 +59,6 @@ Henry:
 - [https://github.com/Henry091201](https://github.com/Henry091201)
 
 
-## Project Link 
-Project link:
-[https://github.com/ah970/ecm2434](https://github.com/ah970/ecm2434)
-
 ## Acknowledgements
 * [Django Documentation](https://docs.djangoproject.com/en/4.0/)
 * [Github Template Guide](https://github.com/othneildrew/Best-README-Template)
